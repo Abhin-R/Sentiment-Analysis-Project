@@ -3,7 +3,7 @@ An NLP-powered sentiment classifier that preprocesses text, extracts TF-IDF feat
 
 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates the complete Natural Language Processing (NLP) pipeline, including:
 
@@ -18,7 +18,7 @@ The model uses **Logistic Regression** for sentiment classification and is train
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✔ Text preprocessing
 - ✔ Stopword removal
@@ -31,7 +31,7 @@ The model uses **Logistic Regression** for sentiment classification and is train
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -43,7 +43,7 @@ The model uses **Logistic Regression** for sentiment classification and is train
 
 ---
 
-## ⚙ Installation
+##  Installation
 
 Clone the repository:
 
@@ -79,7 +79,7 @@ Run all the cells.
 
 ---
 
-## 📊 Model Workflow
+##  Model Workflow
 
 1. Load the dataset
 2. Clean and preprocess text
@@ -92,7 +92,7 @@ Run all the cells.
 
 ---
 
-## 📈 Results
+##  Results
 
 The model successfully classifies text into:
 
@@ -106,9 +106,9 @@ Performance is evaluated using:
 - Classification Report
 - Confusion Matrix
 
+## Demonstration
 
-
-## 🖼 Screenshots
+##  Screenshots
 
 ### Dataset Preview
 
