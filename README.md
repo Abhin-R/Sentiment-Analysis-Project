@@ -107,20 +107,19 @@ Performance is evaluated using:
 - Confusion Matrix
 
 ## Demonstration
+![working demonstration](Demo/sentiment-analysis-demo_.mp4)
 
 ##  Screenshots
 
 ### Dataset Preview
-
-*(Add image here)*
+![Dataset Preview](Images/dataset_preview.png)
 
 ### Confusion Matrix
-
-*(Add image here)*
+![Confusion Matrix](Images/confusion_matrix.png)
 
 ### Prediction Output
 
-*(Add image here)*
+![Prediction Output](Images/prediction_outcome.png)
 
 ---
 
